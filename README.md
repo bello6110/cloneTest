@@ -1,2 +1,2 @@
 # cloneTest
-master
+conflict fix 
